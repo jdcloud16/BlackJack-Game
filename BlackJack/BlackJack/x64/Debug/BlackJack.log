@@ -1,3 +1,6 @@
-﻿  Card.cpp
+﻿  Dealer.cpp
+  Hand.cpp
+  Player.cpp
+  Generating Code...
 MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
 C:\Projects\BlackJack-Game\BlackJack\x64\Debug\BlackJack.exe : fatal error LNK1120: 1 unresolved externals
