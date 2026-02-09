@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Projects\\BlackJack-Game\\BlackJack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Dealer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Dealer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\GameRound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\GameRound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\GameRound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\GameRound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Enum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Enum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\UserPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\UserPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\UserPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\UserPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,24 +51,12 @@
       "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Deck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Dealer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Dealer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Deck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|solutionrelative:BlackJack\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D47CCDF4-60B0-4DBC-9171-F86385DE9989}|BlackJack\\BlackJack.vcxproj|C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,102 +70,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Hand.cpp",
-              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Hand.cpp",
-              "RelativeDocumentMoniker": "BlackJack\\Hand.cpp",
-              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Hand.cpp",
-              "RelativeToolTip": "BlackJack\\Hand.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-08T00:02:57.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Hand.h",
-              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Hand.h",
-              "RelativeDocumentMoniker": "BlackJack\\Hand.h",
-              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Hand.h",
-              "RelativeToolTip": "BlackJack\\Hand.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-08T00:02:51.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Player.h",
-              "RelativeDocumentMoniker": "BlackJack\\Player.h",
-              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Player.h",
-              "RelativeToolTip": "BlackJack\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-08T00:02:21.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "GameRound.cpp",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\GameRound.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\GameRound.cpp",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\GameRound.cpp",
+              "RelativeToolTip": "BlackJack\\GameRound.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T03:34:15.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameRound.h",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\GameRound.h",
+              "RelativeDocumentMoniker": "BlackJack\\GameRound.h",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\GameRound.h",
+              "RelativeToolTip": "BlackJack\\GameRound.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-09T03:34:06.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\main.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\main.cpp",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\main.cpp",
+              "RelativeToolTip": "BlackJack\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T03:33:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enum.h",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Enum.h",
+              "RelativeDocumentMoniker": "BlackJack\\Enum.h",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Enum.h",
+              "RelativeToolTip": "BlackJack\\Enum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-09T03:33:26.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPlayer.cpp",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\UserPlayer.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\UserPlayer.cpp",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\UserPlayer.cpp",
+              "RelativeToolTip": "BlackJack\\UserPlayer.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-09T03:33:01.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Dealer.cpp",
               "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Dealer.cpp",
               "RelativeDocumentMoniker": "BlackJack\\Dealer.cpp",
               "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Dealer.cpp",
               "RelativeToolTip": "BlackJack\\Dealer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-08T00:01:58.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Dealer.h",
               "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Dealer.h",
               "RelativeDocumentMoniker": "BlackJack\\Dealer.h",
               "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Dealer.h",
               "RelativeToolTip": "BlackJack\\Dealer.h",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-08T00:01:45.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Deck.cpp",
-              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.cpp",
-              "RelativeDocumentMoniker": "BlackJack\\Deck.cpp",
-              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.cpp",
-              "RelativeToolTip": "BlackJack\\Deck.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-08T00:01:06.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Deck.h",
-              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.h",
-              "RelativeDocumentMoniker": "BlackJack\\Deck.h",
-              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.h",
-              "RelativeToolTip": "BlackJack\\Deck.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-08T00:00:52.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Card.cpp",
               "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Card.cpp",
               "RelativeDocumentMoniker": "BlackJack\\Card.cpp",
@@ -155,6 +179,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "UserPlayer.h",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\UserPlayer.h",
+              "RelativeDocumentMoniker": "BlackJack\\UserPlayer.h",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\UserPlayer.h",
+              "RelativeToolTip": "BlackJack\\UserPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-09T03:32:56.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hand.cpp",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Hand.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\Hand.cpp",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Hand.cpp",
+              "RelativeToolTip": "BlackJack\\Hand.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T00:02:57.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hand.h",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Hand.h",
+              "RelativeDocumentMoniker": "BlackJack\\Hand.h",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Hand.h",
+              "RelativeToolTip": "BlackJack\\Hand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-08T00:02:51.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Player.h",
+              "RelativeDocumentMoniker": "BlackJack\\Player.h",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Player.h",
+              "RelativeToolTip": "BlackJack\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-08T00:02:21.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Deck.cpp",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.cpp",
+              "RelativeDocumentMoniker": "BlackJack\\Deck.cpp",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.cpp",
+              "RelativeToolTip": "BlackJack\\Deck.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T00:01:06.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Deck.h",
+              "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.h",
+              "RelativeDocumentMoniker": "BlackJack\\Deck.h",
+              "ToolTip": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Deck.h",
+              "RelativeToolTip": "BlackJack\\Deck.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-08T00:00:52.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Card.h",
               "DocumentMoniker": "C:\\Projects\\BlackJack-Game\\BlackJack\\BlackJack\\Card.h",
               "RelativeDocumentMoniker": "BlackJack\\Card.h",

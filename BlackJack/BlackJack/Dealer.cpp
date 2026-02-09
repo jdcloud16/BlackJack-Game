@@ -1,19 +1,16 @@
-#pragma once
-#include "Player.h"
+#include "Dealer.h"
 
-// Dealer is a type of Player that follows fixed rules:
-// it keeps drawing cards until its score reaches or exceeds a target.
-class Dealer : public Player {
-private:
-    int targetScore;  // the score the dealer tries to reach
+// Constructor: initialize the dealer with a hand and default target score
+Dealer::Dealer(Hand* hand) : Player(hand) {
+    targetScore = 17; // Default if not updated
+}
 
-public:
-    // Constructor
-    Dealer(Hand* hand);
+// Update the score the dealer should aim to reach (usually the player's score)
+void Dealer::updateTargetScore(int score) {
+    targetScore = score;
+}
 
-    // Set the score dealer should try to beat
-    void updateTargetScore(int score);
-
-    // Dealer's decision: keep drawing if below target
-    bool makeMove() override;
-};
+// Dealer keeps drawing cards while under the target score
+bool Dealer::makeMove() {
+    return getHand()->getScore() < targetScore;
+}
